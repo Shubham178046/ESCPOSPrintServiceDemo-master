@@ -1,0 +1,41 @@
+<!--
+    The MIT License (MIT)
+
+    Copyright (c) 2015 Looped Labs Pvt. Ltd.
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in
+    all copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+    THE SOFTWARE.
+    -->
+<resources>
+    <string name="app_name">ESC POS Print Service Demo</string>
+
+    <string name="text_hint">Key in your commands to send to printer.</string>
+    <string name="action_about">About</string>
+    <string name="looped_labs">Looped Labs</string>
+    <string name="select_print_service">Select Print Service</string>
+    <string name="open_printer_configuration">Open Printer Configuration</string>
+    <string name="url_text">Image / PDF / HTML URL</string>
+    <string name="print_url">Print URL</string>
+    <string name="sample_image_url">https://loopedlabs.com/web-print/loopedlabs.png</string>
+    <string name="pdf_url">PDF URL</string>
+    <string name="sample_pdf_url">https://loopedlabs/web-print/sample.pdf</string>
+    <string name="file_text">PDF / Image / HTML File</string>
+    <string name="sample_file">Select a Image / PDF / HTML File</string>
+    <string name="browse">Browse</string>
+    <string name="print_file">Print File</string>
+</resources>
